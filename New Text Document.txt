@@ -1,0 +1,5 @@
+pip install pyinstaller
+add the path to env 
+
+pyinstaller --onefile -w app.py
+ to convert py to exe
