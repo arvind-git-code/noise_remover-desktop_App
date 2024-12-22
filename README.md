@@ -33,7 +33,7 @@ pip install tkinter
 ### Running from Source
 
 1. Clone the repository:
-git clone https://github.com/yourusername/noise-reducer.git
+git clone https://github.com/arvind-git-code/noise-reducer.git
 cd noise-reducer
 
 
