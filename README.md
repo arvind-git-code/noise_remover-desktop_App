@@ -33,7 +33,7 @@ pip install tkinter
 ### Running from Source
 
 1. Clone the repository:
-git clone https://github.com/arvind-git-code/noise-reducer.git
+git clone https://github.com/arvind-git-code/noise_remover-desktop_App.git
 cd noise-reducer
 
 
@@ -108,7 +108,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 arvindkumarlbs@gmail.com
 
-Project Link: [https://github.com/arvind-git-code/noise-reducer](https://github.com/arvind-git-code/noise-reducer)
+Project Link: [https://github.com/arvind-git-code/noise_remover-desktop_App.git](https://github.com/arvind-git-code/noise_remover-desktop_App.git)
 
 ## Support
 
