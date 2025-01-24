@@ -106,7 +106,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-arvindkumarlbs@gmail.com
+## Connect with me
+
+- **Name:** Arvind Kumar
+- **LinkedIn:** [LinkedIn Profile URL - https://www.linkedin.com/in/arvind-kumar-a8b591221/](https://www.linkedin.com/in/arvind-kumar-a8b591221/)
+- **Email:** [arvindkumarlbsmca@gmail.com](mailto:arvindkumarlbsmca@gmail.com)
+
 
 Project Link: [https://github.com/arvind-git-code/noise_remover-desktop_App.git](https://github.com/arvind-git-code/noise_remover-desktop_App.git)
 
